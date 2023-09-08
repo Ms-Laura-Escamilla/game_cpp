@@ -7,3 +7,7 @@ To compile on Mac
 ```
 clang++ main.cpp -I/Library/Frameworks/SDL2.framework/Headers  -F/Library/Frameworks -framework SDL2
 ```
+
+### Sources
+
+[https://lazyfoo.net/tutorials/SDL/index.php] is a great resource for learning how to use SDL2 for C++!
