@@ -21,8 +21,6 @@ SDL_Surface* gCurrentSurface = NULL;
 
 int main( int argc, char* args[]) {
 
-    std::cout << "Laura likes code" << std::endl;
-
     if ( !init() ) {
         printf( "Failed to initialize!\n" );
     } else {
