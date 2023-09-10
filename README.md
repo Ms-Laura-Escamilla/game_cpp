@@ -8,7 +8,7 @@ To compile on Mac
 clang++ main.cpp -I/Library/Frameworks/SDL2.framework/Headers  -F/Library/Frameworks -framework SDL2
 ```
 
-Laura is coding rn
+Laura is coding crazily
 
 ### Sources
 
