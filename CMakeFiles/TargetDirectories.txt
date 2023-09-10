@@ -1,2 +1,0 @@
-/Users/yukijanvier/Documents/game_cpp/CMakeFiles/edit_cache.dir
-/Users/yukijanvier/Documents/game_cpp/CMakeFiles/rebuild_cache.dir
